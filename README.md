@@ -1,4 +1,4 @@
-# localcontexts_ui
+# Local Contexts Hub
 Here we track issues and development tasks related to the development of the Local Contexts Hub website.
 
 You can open or comment on current Issues if you have a GitHub account.
