@@ -22,7 +22,7 @@ You can open or comment on current Issues if you have a GitHub account.
 - Notices will have unique PIDS
 
 ### Creating a Researcher Account
-- create an account using ORCiD - (unique identifier for a researchers) [ORCiD](https://orcid.org/)
+- create an account using [ORCiD](https://orcid.org/) - (unique identifier for a researchers)
 - only be able to create TK or BC Notices
 - set up a project to collect metadata about use of Notice and to send community information about the project so community can make decision about whether or not they want to engage and use Labels
 - can use both BC and TK Notice for one project
