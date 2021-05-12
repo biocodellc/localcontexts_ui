@@ -4,14 +4,14 @@ Here we track issues and development tasks related to the development of the Loc
 You can open or comment on current Issues if you have a GitHub account.
 
 ### Creating a Community account. 
-- will take you through a registration page and decision about role - admin, editor or viewer 
+- Will take you through a registration page, role automatically assigned as Admin.
 - Labels will need two people to make functional (an admin and an editor). Viewer is for other community members who might want to look at the labels but not make changes (tribal council)
 - when in site, community admin or editor will be able to:
 	1. Create TK and BC Labels - in the same way to how they did on the TK Label Hub
 	2. Receive Notifications about the use of a TK, BC Notice (at this stage) that has been created by either a researcher or an institution (with project information provided by researcher/institution). 
 	3. Decide if community wants to send Labels to replace Notice - if yes, will be able to chose from already existing suite of Labels or create another Label. If no - no action required. 
 	4. Create projects (and collect project metadata) to add Labels. This just collects information about where community Labels are being used. Provides a record if there is turn over in staff, documenting this for the future. 
-- there is a communication tool that allows comms between community and researchers or institutional staff (largely about how to deliver and send Labels)
+- There are comments on each notice between community and researchers or institutional staff (largely about how to deliver and send Labels)
 
 ### Creating an Institution Account
  - create an account - will also be using RORs to properly identify the institution
@@ -22,7 +22,7 @@ You can open or comment on current Issues if you have a GitHub account.
 - Notices will have unique PIDS
 
 ### Creating a Researcher Account
-- create an account using [ORCiD](https://orcid.org/) - (unique identifier for a researchers)
+- create an account with [ORCiD](https://orcid.org/) - (unique identifier for a researchers) validation
 - only be able to create TK or BC Notices
 - set up a project to collect metadata about use of Notice and to send community information about the project so community can make decision about whether or not they want to engage and use Labels
 - can use both BC and TK Notice for one project
